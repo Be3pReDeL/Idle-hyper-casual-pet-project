@@ -1,1 +1,1 @@
-# Idle-hyper-casual-pet-project
+# Idle-hyper-casual-pet-projects
